@@ -51,3 +51,26 @@ hr {
     align-content: center;
     text-align: center;
 }
+/* 
+label {
+    color: #D5D4D8;
+    margin-left: 20px;
+
+}
+input {
+    background-color: #273549;
+    border: none;
+    margin-left: 5px;
+    font-family:"Karla", sans-serif ;
+    color: #D5D4D8;
+    padding: 6px;
+}
+
+
+
+input[type=number]::-webkit-inner-spin-button {
+  opacity: 1;
+  
+  
+}
+*/

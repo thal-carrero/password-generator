@@ -8,6 +8,7 @@ let password1 = ""
 let password2 = ""
 let isGenerated = false
 
+console.log(characters[4])
 function getRandomIndex() {
     return Math.floor(Math.random() * characters.length)
 }
